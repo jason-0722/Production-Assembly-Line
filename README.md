@@ -1,4 +1,3 @@
-# Production-Assembly-Line
 **OOP345 - MS3**
 **Command Line: ms3 Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt**
 
